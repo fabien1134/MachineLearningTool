@@ -1,0 +1,32 @@
+﻿{
+  "OnlyDisplaySavedData": true,
+  "DataSourceTestConfigs": [
+    {
+      "DataSource": "Twitter",
+      "DownloadProcessConfigs": [
+        [
+          {
+            "AllowRetweets": true,
+            "Amount": 25,
+            "TweetKeyWords": [ "fight" ],
+            "OnlyVerifiedUser": false
+          },
+          {
+            "AllowRetweets": true,
+            "Amount": 25,
+            "TweetKeyWords": [ "love" ],
+            "OnlyVerifiedUser": false
+          }
+        ],
+        [
+          {
+            "AllowRetweets": true,
+            "Amount": 50,
+            "TweetKeyWords": [ "shoot" ],
+            "OnlyVerifiedUser": false
+          }
+        ]
+      ]
+    }
+  ]
+}

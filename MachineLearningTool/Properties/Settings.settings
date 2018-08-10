@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MachineLearningTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConsumerKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">h3XQaueIqkCcsvzZwmYQxUQLN</Value>
+    </Setting>
+    <Setting Name="ConsumerSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FoD4uQh99X4tuyqA13LXa1lzaEreYMYYUERWMdtmABYaLUo4x2</Value>
+    </Setting>
+    <Setting Name="UserAcessToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">939618342746324993-KbVHqdL0lVrEGzX3C8edlExMB0cbKOh</Value>
+    </Setting>
+    <Setting Name="UserAccessTokenSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">NDtNoRsEUHXla00DfANs9xuOoebKoIc81UI3UgZUUnweT</Value>
+    </Setting>
+    <Setting Name="DownloadConfigLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Resources\Configs\DownloadSettings.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
